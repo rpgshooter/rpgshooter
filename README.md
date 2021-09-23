@@ -1,4 +1,7 @@
--Hello, im Eathan pleasure to meet you. 
--I program in, C++ lua and C# and enjoy doing so. 
--I like to make projects, my current on is modderp an opengl engine.
--I like strawberry icecream 
+-Hello, im Eathan pleasure to meet you.
+   
+
+-I program in,
+
+![C++](https://img.shields.io/badge/-C%2B%2B-green) ![C++](https://img.shields.io/badge/-Lua-green) 
+ 
