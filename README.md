@@ -1,4 +1,4 @@
--Hello, im rpgshooter or Eathan pleasure to meet you.
--I program in, C++ lua and C# and enjoy doing so.
--I only speak in source 1 modding.
--I like strawberry icecream
+-Hello, im Eathan pleasure to meet you. 
+-I program in, C++ lua and C# and enjoy doing so. 
+-I like to make projects, my current on is modderp an opengl engine.
+-I like strawberry icecream 
